@@ -10,3 +10,4 @@ Ok, ya mandaron su commit
 
 Esto es un nuevo commit
 
+Nuevo conflicto
