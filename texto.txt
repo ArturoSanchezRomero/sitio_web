@@ -4,6 +4,7 @@ Elizert Flores
 juan eduardo mi primer comit
 CarlosAVG
 Yordi mi primer commit
+Jose Angel Mi primer commit 
 
 Ok, ya mandaron su commit
 
